@@ -35,12 +35,11 @@ npm run build
 
 
 ### 使用依赖
-<pre>
-   vue-router
-   webpack
-   mint-ui
-   iconfont
-</pre>
+ * vue-router
+ * webpack
+ * mint-ui
+ * iconfont
+
 
 
 ### 目录结构
