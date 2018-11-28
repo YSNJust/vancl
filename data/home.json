@@ -1,0 +1,720 @@
+{
+	"regionList":[
+		{
+			"image1":"images/home_region1_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region1_1.jpg",
+					"name1":"凡客衬衫 吉国武 轻弹免烫 小方领 4.0 浅灰" ,
+					"original":"689",
+					"ruling":"349"
+				},
+				{
+					"src":"images/home_region1_2.jpg",
+					"name1":"凡客衬衫 吉国武 免烫 领尖扣 4.0 灰色" ,
+					"original":"598",
+					"ruling":"299"
+				},
+				{
+					"src":"images/home_region1_3.jpg",
+					"name1":"凡客衬衫 吉国武 轻弹免烫 小方领 4.0 浅蓝" ,
+					"original":"698",
+					"ruling":"349"
+				},
+				{
+					"src":"images/home_region1_4.jpg",
+					"name1":"凡客衬衫 吉国武 免烫 温莎领 4.0 蓝色" ,
+					"original":"598",
+					"ruling":"299"
+				},
+				{
+					"src":"images/home_region1_5.jpg",
+					"name1":"凡客衬衫 吉国武 轻弹免烫 小方领 4.0 白色" ,
+					"original":"698",
+					"ruling":"349"
+				},
+				{
+					"src":"images/home_region1_6.jpg",
+					"name1":"凡客衬衫 吉国武 免烫 领尖扣 4.0 白色" ,
+					"original":"598",
+					"ruling":"299"
+				},
+				{
+					"src":"images/home_region1_7.jpg",
+					"name1":"凡客衬衫 吉国武 免烫 领尖扣 4.0 蓝色" ,
+					"original":"598",
+					"ruling":"299"
+				},
+				{
+					"src":"images/home_region1_8.jpg",
+					"name1":"凡客衬衫 吉国武 免烫 温莎领 4.0 白色" ,
+					"original":"598",
+					"ruling":"299"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region2_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region2_1.jpg",
+					"name1":"凡客衬衫 牛津纺 领尖扣 男款 天蓝色" ,
+					"original":"398",
+					"ruling":"199"
+				},
+				{
+					"src":"images/home_region2_2.jpg",
+					"name1":"凡客衬衫 牛津纺 领尖扣 男款 天蓝色" ,
+					"original":"398",
+					"ruling":"199"
+				},
+				{
+					"src":"images/home_region2_3.jpg",
+					"name1":"凡客衬衫 牛津纺 领尖扣 男款 天蓝色" ,
+					"original":"398",
+					"ruling":"199"
+				},
+				{
+					"src":"images/home_region2_4.jpg",
+					"name1":"凡客衬衫 牛津纺 领尖扣 男款 天蓝色" ,
+					"original":"398",
+					"ruling":"199"
+				},
+				{
+					"src":"images/home_region2_5.jpg",
+					"name1":"凡客衬衫 牛津纺 领尖扣 男款 天蓝色" ,
+					"original":"398",
+					"ruling":"199"
+				},
+				{
+					"src":"images/home_region2_6.jpg",
+					"name1":"凡客衬衫 牛津纺 领尖扣 男款 天蓝色" ,
+					"original":"398",
+					"ruling":"199"
+				},
+				{
+					"src":"images/home_region2_7.jpg",
+					"name1":"凡客衬衫 牛津纺 领尖扣 男款 天蓝色" ,
+					"original":"398",
+					"ruling":"199"
+				},
+				{
+					"src":"images/home_region2_8.jpg",
+					"name1":"凡客衬衫 牛津纺 领尖扣 男款 天蓝色" ,
+					"original":"398",
+					"ruling":"199"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region3_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region3_1.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				},
+				{
+					"src":"images/home_region3_2.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				},
+				{
+					"src":"images/home_region3_3.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				},
+				{
+					"src":"images/home_region3_4.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				},
+				{
+					"src":"images/home_region3_5.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				},
+				{
+					"src":"images/home_region3_6.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				},
+				{
+					"src":"images/home_region3_7.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				},
+				{
+					"src":"images/home_region3_8.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				},
+				{
+					"src":"images/home_region3_9.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				},
+				{
+					"src":"images/home_region3_10.jpg",
+					"name1":"凡客帆布鞋 男款 红色" ,
+					"original":"278",
+					"ruling":"139"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region4_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region4_1.jpg",
+					"name1":"羽绒服 无缝锁温智能发热鹅绒服 藏蓝色" ,
+					"original":"1398",
+					"ruling":"699"
+				},
+				{
+					"src":"images/home_region4_2.jpg",
+					"name1":"羽绒服 无缝锁温智能发热鹅绒服 藏蓝色" ,
+					"original":"1398",
+					"ruling":"699"
+				},
+				{
+					"src":"images/home_region4_3.jpg",
+					"name1":"羽绒服 无缝锁温智能发热鹅绒服 藏蓝色" ,
+					"original":"1398",
+					"ruling":"699"
+				},
+				{
+					"src":"images/home_region4_4.jpg",
+					"name1":"羽绒服 无缝锁温智能发热鹅绒服 藏蓝色" ,
+					"original":"1398",
+					"ruling":"699"
+				},
+				{
+					"src":"images/home_region4_5.jpg",
+					"name1":"羽绒服 无缝锁温智能发热鹅绒服 藏蓝色" ,
+					"original":"1398",
+					"ruling":"699"
+				},
+				{
+					"src":"images/home_region4_6.jpg",
+					"name1":"羽绒服 无缝锁温智能发热鹅绒服 藏蓝色" ,
+					"original":"1398",
+					"ruling":"699"
+				},
+				{
+					"src":"images/home_region4_7.jpg",
+					"name1":"羽绒服 无缝锁温智能发热鹅绒服 藏蓝色" ,
+					"original":"1398",
+					"ruling":"699"
+				},
+				{
+					"src":"images/home_region4_8.jpg",
+					"name1":"羽绒服 无缝锁温智能发热鹅绒服 藏蓝色" ,
+					"original":"1398",
+					"ruling":"699"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region5_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region5_1.jpg",
+					"name1":"N3B大衣棉服 厚棉 C9 男款 迷彩" ,
+					"original":"588",
+					"ruling":"279"
+				},
+				{
+					"src":"images/home_region5_2.jpg",
+					"name1":"N3B大衣棉服 厚棉 C9 男款 迷彩" ,
+					"original":"588",
+					"ruling":"279"
+				},
+				{
+					"src":"images/home_region5_3.jpg",
+					"name1":"N3B大衣棉服 厚棉 C9 男款 迷彩" ,
+					"original":"588",
+					"ruling":"279"
+				},
+				{
+					"src":"images/home_region5_4.jpg",
+					"name1":"N3B大衣棉服 厚棉 C9 男款 迷彩" ,
+					"original":"588",
+					"ruling":"279"
+				},
+				{
+					"src":"images/home_region5_5.jpg",
+					"name1":"N3B大衣棉服 厚棉 C9 男款 迷彩" ,
+					"original":"588",
+					"ruling":"279"
+				},
+				{
+					"src":"images/home_region5_6.jpg",
+					"name1":"N3B大衣棉服 厚棉 C9 男款 迷彩" ,
+					"original":"588",
+					"ruling":"279"
+				},
+				{
+					"src":"images/home_region5_7.jpg",
+					"name1":"N3B大衣棉服 厚棉 C9 男款 迷彩" ,
+					"original":"588",
+					"ruling":"279"
+				},
+				{
+					"src":"images/home_region5_8.jpg",
+					"name1":"N3B大衣棉服 厚棉 C9 男款 迷彩" ,
+					"original":"588",
+					"ruling":"279"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region6_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region6_1.jpg",
+					"name1":"阳离子加绒长袖T恤 男款 深灰" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region6_2.jpg",
+					"name1":"阳离子加绒长袖T恤 男款 深灰" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region6_3.jpg",
+					"name1":"阳离子加绒长袖T恤 男款 深灰" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region6_4.jpg",
+					"name1":"阳离子加绒长袖T恤 男款 深灰" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region6_5.jpg",
+					"name1":"阳离子加绒长袖T恤 男款 深灰" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region6_6.jpg",
+					"name1":"阳离子加绒长袖T恤 男款 深灰" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region6_7.jpg",
+					"name1":"阳离子加绒长袖T恤 男款 深灰" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region6_8.jpg",
+					"name1":"阳离子加绒长袖T恤 男款 深灰" ,
+					"original":"258",
+					"ruling":"129"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region7_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region7_1.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				},
+				{
+					"src":"images/home_region7_2.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				},
+				{
+					"src":"images/home_region7_3.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				},
+				{
+					"src":"images/home_region7_4.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				},
+				{
+					"src":"images/home_region7_5.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				},
+				{
+					"src":"images/home_region7_6.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				},
+				{
+					"src":"images/home_region7_7.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				},
+				{
+					"src":"images/home_region7_8.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				},
+				{
+					"src":"images/home_region7_9.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				},
+				{
+					"src":"images/home_region7_10.jpg",
+					"name1":"凡客卫衣 暖绒开衫 男款 牛仔蓝" ,
+					"original":"289",
+					"ruling":"149"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region8_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region8_1.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_2.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_3.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_4.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_5.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_6.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_7.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_8.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_9.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_10.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_11.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_12.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_13.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				},
+				{
+					"src":"images/home_region8_14.jpg",
+					"name1":"牛仔裤 基础直筒 轻弹 男款 水洗蓝" ,
+					"original":"258",
+					"ruling":"129"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region9_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region9_1.jpg",
+					"name1":"童装T恤 熊本熊 T13 白色" ,
+					"original":"139",
+					"ruling":"68"
+				},
+				{
+					"src":"images/home_region9_2.jpg",
+					"name1":"童装T恤 熊本熊 T13 白色" ,
+					"original":"139",
+					"ruling":"68"
+				},
+				{
+					"src":"images/home_region9_3.jpg",
+					"name1":"童装T恤 熊本熊 T13 白色" ,
+					"original":"139",
+					"ruling":"68"
+				},
+				{
+					"src":"images/home_region9_4.jpg",
+					"name1":"童装T恤 熊本熊 T13 白色" ,
+					"original":"139",
+					"ruling":"68"
+				},
+				{
+					"src":"images/home_region9_5.jpg",
+					"name1":"童装T恤 熊本熊 T13 白色" ,
+					"original":"139",
+					"ruling":"68"
+				},
+				{
+					"src":"images/home_region9_6.jpg",
+					"name1":"童装T恤 熊本熊 T13 白色" ,
+					"original":"139",
+					"ruling":"68"
+				},
+				{
+					"src":"images/home_region9_7.jpg",
+					"name1":"童装T恤 熊本熊 T13 白色" ,
+					"original":"139",
+					"ruling":"68"
+				},
+				{
+					"src":"images/home_region9_8.jpg",
+					"name1":"童装T恤 熊本熊 T13 白色" ,
+					"original":"139",
+					"ruling":"68"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region10_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region10_1.jpg",
+					"name1":"凡客内裤 棉氨 男款 灰色" ,
+					"original":"78",
+					"ruling":"39"
+				},
+				{
+					"src":"images/home_region10_2.jpg",
+					"name1":"凡客内裤 棉氨 男款 灰色" ,
+					"original":"78",
+					"ruling":"39"
+				},
+				{
+					"src":"images/home_region10_3.jpg",
+					"name1":"凡客内裤 棉氨 男款 灰色" ,
+					"original":"78",
+					"ruling":"39"
+				},
+				{
+					"src":"images/home_region10_4.jpg",
+					"name1":"凡客内裤 棉氨 男款 灰色" ,
+					"original":"78",
+					"ruling":"39"
+				},
+				{
+					"src":"images/home_region10_5.jpg",
+					"name1":"凡客内裤 棉氨 男款 灰色" ,
+					"original":"78",
+					"ruling":"39"
+				},
+				{
+					"src":"images/home_region10_6.jpg",
+					"name1":"凡客内裤 棉氨 男款 灰色" ,
+					"original":"78",
+					"ruling":"39"
+				},
+				{
+					"src":"images/home_region10_7.jpg",
+					"name1":"凡客内裤 棉氨 男款 灰色" ,
+					"original":"78",
+					"ruling":"39"
+				},
+				{
+					"src":"images/home_region10_8.jpg",
+					"name1":"凡客内裤 棉氨 男款 灰色" ,
+					"original":"78",
+					"ruling":"39"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region11_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region11_1.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				},
+				{
+					"src":"images/home_region11_2.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				},
+				{
+					"src":"images/home_region11_3.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				},
+				{
+					"src":"images/home_region11_4.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				},
+				{
+					"src":"images/home_region11_5.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				},
+				{
+					"src":"images/home_region11_6.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				},
+				{
+					"src":"images/home_region11_7.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				},
+				{
+					"src":"images/home_region11_8.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				},
+				{
+					"src":"images/home_region11_9.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				},
+				{
+					"src":"images/home_region11_10.jpg",
+					"name1":"家居鞋 针织全包款 1758 粉色" ,
+					"original":"98",
+					"ruling":"49"
+				}
+			]
+		},
+		{
+			"image1":"images/home_region12_0.jpg",
+			"detailsList":[
+				{
+					"src":"images/home_region12_1.jpg",
+					"name1":"恒源祥(HYX) 炫彩休闲防水双肩包 黑色" ,
+					"original":"508",
+					"ruling":"254"
+				},
+				{
+					"src":"images/home_region12_2.jpg",
+					"name1":"恒源祥(HYX) 炫彩休闲防水双肩包 黑色" ,
+					"original":"508",
+					"ruling":"254"
+				},
+				{
+					"src":"images/home_region12_3.jpg",
+					"name1":"恒源祥(HYX) 炫彩休闲防水双肩包 黑色" ,
+					"original":"508",
+					"ruling":"254"
+				},
+				{
+					"src":"images/home_region12_4.jpg",
+					"name1":"恒源祥(HYX) 炫彩休闲防水双肩包 黑色" ,
+					"original":"508",
+					"ruling":"254"
+				},
+				{
+					"src":"images/home_region12_5.jpg",
+					"name1":"恒源祥(HYX) 炫彩休闲防水双肩包 黑色" ,
+					"original":"508",
+					"ruling":"254"
+				},
+				{
+					"src":"images/home_region12_6.jpg",
+					"name1":"恒源祥(HYX) 炫彩休闲防水双肩包 黑色" ,
+					"original":"508",
+					"ruling":"254"
+				},
+				{
+					"src":"images/home_region12_7.jpg",
+					"name1":"恒源祥(HYX) 炫彩休闲防水双肩包 黑色" ,
+					"original":"508",
+					"ruling":"254"
+				},
+				{
+					"src":"images/home_region12_8.jpg",
+					"name1":"恒源祥(HYX) 炫彩休闲防水双肩包 黑色" ,
+					"original":"508",
+					"ruling":"254"
+				},
+				{
+					"src":"images/home_region12_9.jpg",
+					"name1":"恒源祥(HYX) 炫彩休闲防水双肩包 黑色" ,
+					"original":"508",
+					"ruling":"254"
+				}
+			]
+		}
+		
+	]
+
+}
